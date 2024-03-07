@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="rccarnation">
+    <test name="SignInSignUp">
+        <classes>
+            <class name="SignInPage"/>
+            <class name="SignUpPage"/>
+        </classes>
+    </test>
+</suite>
